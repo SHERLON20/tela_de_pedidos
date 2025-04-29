@@ -1,3 +1,4 @@
 flet
 time
 requests
+flet_desktop
